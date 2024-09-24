@@ -1,0 +1,42 @@
+body{
+    background-image: url('1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.main{
+text-align: center;
+border: 2px solid black;
+}
+.judul{
+    border-bottom: 2px solid black;
+   
+    p{
+        font-family: Georgia; font-size: 30px; font-style: italic;
+        margin: 2px;
+    }
+h1{
+    color: red;
+    margin: 2px;
+}
+.Email{
+    color: #204af8 ;
+    font-size: small;
+}
+}
+
+.content p{
+ margin-left: 20px;
+ margin-right: 20px;
+ text-align: justify;
+}
+
+.content{
+    text-align: left;
+    h2{
+        color:red ;
+        margin-left: 10px;
+    }
+}
+
